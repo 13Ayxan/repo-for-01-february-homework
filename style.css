@@ -1,0 +1,18 @@
+
+button {
+    display: block;
+    border-radius: 20%;
+    margin: 10px;
+    margin-left: 30px;
+    padding: 35px;
+    background-color: orange;
+    border: solid 3px;
+}
+
+button:hover{ 
+    width: 90px;
+    height: 90px;
+    transition: 1s;
+    cursor: pointer;
+}
+
